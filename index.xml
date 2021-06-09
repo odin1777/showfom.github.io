@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My sbc1234 Site</title>
+    <link>http://sbc1234.com/</link>
+    <description>Recent content on My sbc1234 Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Jun 2021 17:16:59 +0800</lastBuildDate><atom:link href="http://sbc1234.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New 3ost</title>
+      <link>http://sbc1234.com/post/new-post/</link>
+      <pubDate>Wed, 09 Jun 2021 17:16:59 +0800</pubDate>
+      
+      <guid>http://sbc1234.com/post/new-post/</guid>
+      <description>jingtao是个笨蛋 123
+ 123  </description>
+    </item>
+    
+  </channel>
+</rss>
